@@ -1,7 +1,4 @@
-### Hi there 👋
 
-<!--
-**jackmorris23/jackmorris23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - I have no previous coding experience. 
 - I am taking this class because I am interested in learning more about computers and why they are able to work. I also hope this course strengthens my college applications. 
